@@ -2,20 +2,13 @@
 layout: post
 title:  "Hello World!"
 date:   2020-04-04 15:30:10 +0200
-categories: jekyll update
 ---
-# Buongiorno a tutti!
+# Buona Caccia!
 
-Questa è una prova per vedere se funziona il post *se posso scrivere così* e anche **così**.
+Siamo a casa, ma siamo sempre Scout!  
+![orifiamma](/orifiamma.jpg) {: .align-center}
 
-Vediamo come va a capo
-così?  
-oppure così?  
+Su questo sito metteremo delle piccole attività ed i punteggi, la gara dell'anno non si ferma 😉
 
-E i [link](https://oradecima.com) funzionano?
-
-e immagini
-
-![](/logo.png)
-
-ciaone a presto
+*Buona caccia,*
+La direzione ![giglio](/giglio.png){: .align-right}
