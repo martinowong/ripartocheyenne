@@ -5,5 +5,3 @@
 layout: home
 title: Martino
 ---
-
-<link rel="apple-touch-icon" href="logo.png">

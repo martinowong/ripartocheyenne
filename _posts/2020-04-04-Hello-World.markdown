@@ -14,4 +14,8 @@ oppure così?
 
 E i [link](https://oradecima.com) funzionano?
 
+e immagini
+
+![](/logo.png)
+
 ciaone a presto
