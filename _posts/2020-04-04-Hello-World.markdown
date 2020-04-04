@@ -11,5 +11,6 @@ Siamo a casa, ma siamo sempre Scout!
 
 Su questo sito metteremo delle piccole attività ed i punteggi, la gara dell'anno non si ferma 😉
 
-*Buona caccia,* \
+*Buona caccia,*
+
 La direzione ![giglio](/giglio.png){: .align-right}
