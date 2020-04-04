@@ -12,4 +12,4 @@ Su questo sito metteremo delle piccole attività ed i punteggi, la gara dell'ann
 
 *Buona caccia,*
 
-La direzione ![giglio](/images/giglio.png){: .align-right}
+La direzione ![giglio](/images/GiglioBig.png){: .align-right}
