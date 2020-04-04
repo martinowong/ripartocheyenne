@@ -1,4 +1,9 @@
+---
+layout: post
+title:  "Tutorial Quaderno"
+date:   2020-04-01 15:30:10 +0200
 
+---
 
 Abbiamo ricevuto questo tutorial da un bizzarro individuo che sostiene di lavorare in una fabbrica di quaderni...mah
 
