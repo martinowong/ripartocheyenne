@@ -7,7 +7,6 @@ image: /orifiamma.jpg
 # Buona Caccia!
 
 Siamo a casa, ma siamo sempre Scout!  
-![orifiamma](/orifiamma.jpg){: .align-center}
 
 Su questo sito metteremo delle piccole attività ed i punteggi, la gara dell'anno non si ferma 😉
 
