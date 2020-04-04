@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2020-04-04 15:30:10 +0200
+image: /orifiamma.jpg
 ---
 # Buona Caccia!
 
