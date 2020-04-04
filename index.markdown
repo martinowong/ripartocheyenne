@@ -4,5 +4,5 @@
 
 layout: home
 title:
-image: /images/orifiamma.jpg
+image: /images/FuocoSanGiorgio.jpg
 ---
