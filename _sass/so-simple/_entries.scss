@@ -33,6 +33,10 @@
     text-decoration: underline;
   }
 
+  a:hover{
+    color:grey
+  }
+
   a[rel="bookmark"]::before {
     content: '';
     position: absolute;
