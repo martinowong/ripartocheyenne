@@ -28,13 +28,18 @@
   font-style: italic;
   letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
+/*  padding: 50px 50px 50px; */
 
   a {
     text-decoration: none;
+    -webkit-transition: all .03s ease;
+    -moz-transition: all .03s ease;
+    transition: all .03s ease;
   }
 
   a:hover{
     text-decoration: underline;
+
   }
 
   a[rel="bookmark"]::before {
@@ -81,6 +86,7 @@
 
 .entries-list {
   .entry {
+    padding: 8px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -89,6 +95,9 @@
     -ms-flex-direction: column;
     flex-direction: column;
     margin-bottom: 2rem;
+  /*  a:hover{
+      font-size: 110%;
+    } */
   }
 
   .entry-title {
