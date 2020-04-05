@@ -30,11 +30,11 @@
   word-wrap: break-word; /* break long words that could overflow */
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   a:hover{
-    color:grey
+    text-decoration: underline;
   }
 
   a[rel="bookmark"]::before {
