@@ -8,4 +8,4 @@ author:
 
 ## Un avviso dal Vice della squadriglia Cobra:
 
-<iframe src="/files/avviso-scout.pdf" width="100%" height="1100"  ></iframe>
+![](/images/avviso-san-giorgio.jpg)
