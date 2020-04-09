@@ -34,6 +34,7 @@ Pensiamo e scriviamo sul quaderno una cosa per cui ringraziare i nostri genitori
 Nei prossimi giorni vi sentirete di squadriglia e chi vorrà potrà condividere queste due piccole domande, e, se non lo avete ancora fatto, ciascuno condividerà un ricordo bello di qualcosa che vi ha dato lo scoutismo fino ad ora, e lo scriverete tutti insieme.  
 
 A domani!
+E un buon compleanno a Simone 😁
 
 Buona caccia *a casa*,
 
