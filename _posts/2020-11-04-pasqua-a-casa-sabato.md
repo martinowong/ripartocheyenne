@@ -10,7 +10,7 @@ image:
 
 ---
 
-Oggi è un giorno particolare...ieri Gesù è moto donando la vita per noi, stanotte e domani (spoiler) risorgerà, e oggi che famo allora?  
+Oggi è un giorno particolare...ieri Gesù è morto donando la vita per noi, stanotte e domani (spoiler) risorgerà, e oggi che famo allora?  
 
 Oggi c’è un grande silenzio. Oggi non si fanno messe, oggi la tomba di Gesù è chiusa, come siamo chiusi noi in casa...  
 
