@@ -4,7 +4,10 @@ title:  "La Pasqua a casa: Sabato Santo"
 date:   2020-04-11 10:30:10 +0200
 author:
   name: Direzione Cheyenne
-image: /images/croce.jpg
+image:
+  path: /images/candela.jpg
+  thumbnail: /images/candela.jpg
+
 ---
 
 Oggi è un giorno particolare...ieri Gesù è moto donando la vita per noi, stanotte e domani (spoiler) risorgerà, e oggi che famo allora?  

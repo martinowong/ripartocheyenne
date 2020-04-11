@@ -4,7 +4,9 @@ title:  "La Pasqua a casa: Giovedì Santo"
 date:   2020-04-09 13:30:10 +0200
 author:
   name: Direzione Cheyenne
-image: /images/lavanda-piedi.jpg
+image:
+  path: /images/lavanda-piedi.jpg
+  thumbnail: /images/lavanda-piedi.jpg
 ---
 
 

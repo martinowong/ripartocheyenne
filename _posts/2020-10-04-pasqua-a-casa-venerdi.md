@@ -4,7 +4,9 @@ title:  "La Pasqua a casa: Venerdì Santo"
 date:   2020-04-10 14:30:10 +0200
 author:
   name: Direzione Cheyenne
-image: /images/croce.jpg
+image:
+  path: /images/croce.jpg
+  thumbnail: /images/croce.jpg
 ---
 
 È difficile capire ciò che fa Gesù oggi, offrendosi per noi, è proprio una roba folle!
