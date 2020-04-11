@@ -31,6 +31,6 @@ Per chi preferisce invece [domenica la Messa del Papa sarà alle 11.](http://w2.
 
 Anche se siamo distanti ognuno a casa propria, possiamo sentirci fratelli scout insieme seguendo la celebrazione della festa a cui ci stiamo preparando!
 
-*Buon silenzio di sabato,*
+*Buon silenzio di sabato e auguri a Emanuele!,*
 
 La Direzione
