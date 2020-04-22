@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Invervista a Martino, Caporiparto"
+title:  "Intervista a Martino, Caporiparto"
 date:   2020-04-22 18:00:10 +0200
 author:
   name: Antonio Avagnina
