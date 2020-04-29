@@ -50,7 +50,7 @@ QUALI SONO LE ISTRUZIONI PER PARTECIPARE AL PROGRAMMA DI
 
 **QUANTO SEI SKILLATO!**
 
-La diretta si dividerà in due serate; la prima Giovedì 30 alle 21:15, nel quale i partecipanti della puntata saranno gli scout dell’alta squadriglia del reparto Rm2, mentre per la seconda diretta, che ci sarà Sabato 2 sempre alle 21:15, i partecipanti saranno tutti coloro che fanno parte del reparto RM2.
+La diretta si dividerà in due serate; la prima Giovedì 30 alle 21:15, nel quale i partecipanti della puntata saranno gli scout dell’alta squadriglia del riparto Rm2, mentre per la seconda diretta, che ci sarà Sabato 2 sempre alle 21:15, i partecipanti saranno tutti coloro che fanno parte del riparto RM2.
 
 Per partecipare basta essere presenti alle serate del programma, nel quale si deve far vedere una particolare abilità (in diretta o facendo vedere quest’abilità attraverso un video montato prima) che verrà valutato dalla giuria con questi criteri:
 
