@@ -4,7 +4,7 @@ title: Punteggi
 permalink: /punteggi/
 ---
 
-Ecco i punteggi totali aggiornati a 2020-04-14:
+Ecco i punteggi totali aggiornati a 2020-05-11:
 
-- **Cobra:** *21*
-- **Condor:** *17*
+- **Cobra:** *43*
+- **Condor:** *32*
