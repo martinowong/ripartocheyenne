@@ -17,6 +17,7 @@ gem "jekyll-theme-so-simple"
 # gem "github-pages","~> 202" , group: :jekyll_plugins
 gem "github-pages","~> 204" , group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem 'jekyll-redirect-from'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
 end
@@ -30,4 +31,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
